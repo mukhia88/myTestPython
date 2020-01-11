@@ -1,0 +1,1 @@
+print ('myClass python project')
